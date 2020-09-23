@@ -1,2 +1,3 @@
 # CSCI4308-FullContact-Timesheets
-Weekly team member timesheets
+`Admin`: Weekly team member timesheets and attendance records
+`Submissions`: Project deliverables 
