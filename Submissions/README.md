@@ -1,3 +1,5 @@
 # Submissions
 
-TODO: Project Charter
+Project Charter :white_check_mark:
+
+TODO: Project Plan
