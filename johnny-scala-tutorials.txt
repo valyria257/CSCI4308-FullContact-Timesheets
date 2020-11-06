@@ -6,3 +6,5 @@ https://www.youtube.com/watch?v=mw4uCC07xeU&list=PLiRMk2ipn1vq1SOw_G3cFMcH8zl0Nh
 
 functional programming:
 https://www.youtube.com/watch?v=R0jVqeYzs9c
+
+Graph theory: connected components
