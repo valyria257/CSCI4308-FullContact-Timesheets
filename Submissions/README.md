@@ -6,4 +6,4 @@ Project Plan :white_check_mark:
 
 Work Breakdown Structure :white_check_mark:
 
-TODO: Requirements Breakdown
+Requirements Breakdown :white_check_mark:
