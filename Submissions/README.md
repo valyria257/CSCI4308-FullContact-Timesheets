@@ -2,4 +2,8 @@
 
 Project Charter :white_check_mark:
 
-TODO: Project Plan
+Project Plan :white_check_mark:
+
+Work Breakdown Structure :white_check_mark:
+
+TODO: Requirements Breakdown
